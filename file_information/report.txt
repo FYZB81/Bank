@@ -1,0 +1,24 @@
+Account with ID 10000 has good condition to get lone 
+Account with ID 10002 has good condition to get lone 
+Account with ID 10000 has good condition to get lone 
+Account with ID 10002 has good condition to get lone 
+Clerk with personal ID 100 login in date 11/11/1400
+Account with national code  1234567890 Create in date11/11/1400
+Account with national code 1234567890 login in date11/11/1400
+Account with ID 10003 and national code 1234567890 has 1000000Increase in date11/11/1400
+Clerk with personal ID 101 login in date 11/11/1400
+Client whit national code 9262899181 get accept for loan with account with ID 10000 in date 11/11/1400
+Account white ID 10000has 1 paid installments until now. date:11/11/1400
+Account with ID 10000 has good condition to get lone 
+Account with ID 10002 has good condition to get lone 
+Clerk with personal ID 101 login in date 12/11/1400
+Account with national code  1234567890 Create in date12/11/1400
+Account with national code 1234567890 login in date12/11/1400
+Account with ID 10003 and national code 1234567890 has 1000000Increase in date12/11/1400
+Account white ID 10000has 2 paid installments until now. date:12/11/1400
+Account with ID 10000 has good condition to get lone 
+Account with ID 10002 has good condition to get lone 
+Clerk with personal ID 101 login in date 13/11/1400
+Account with national code  1234567890 Create in date13/11/1400
+Account with national code 1234567890 login in date13/11/1400
+Account with ID 10003 and national code 1234567890 has 1000000Increase in date13/11/1400
